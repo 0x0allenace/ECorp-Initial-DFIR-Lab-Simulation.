@@ -13,10 +13,11 @@
    git clone https://github.com/<your-user>/ecorp-dfir-lab.git
    cd ecorp-dfir-lab
 
-Push to GitHub
-git init
-git add .
-git commit -m "Initial ECorp DFIR lab repo"
-git remote add origin git@github.com:<your-user>/ECorp-Initial-DFIR-Lab-Simulation.
-git branch -M main
-git push -u origin main
+## Push to GitHub
+
+	•	init
+	•	git add .
+	•	git commit -m "Initial ECorp DFIR lab repo"
+	•	git remote add origin git@github.com:<your-user>/ecorp-dfir-lab.git
+	•	git branch -M main
+	•	git push -u origin main
