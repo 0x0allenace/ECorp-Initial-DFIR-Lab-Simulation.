@@ -14,7 +14,6 @@
    cd ecorp-dfir-lab
 
 Push to GitHub
-
 git init
 git add .
 git commit -m "Initial ECorp DFIR lab repo"
