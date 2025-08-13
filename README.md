@@ -11,7 +11,7 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-user>/ECorp-Initial-DFIR-Lab-Simulation.
-   cd ecorp-dfir-lab
+   cd ECorp-Initial-DFIR-Lab-Simulation.
 
 ## Push to GitHub
 
